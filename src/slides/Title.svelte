@@ -3,7 +3,7 @@
 
 <section>
   <section>
-    <h3>Title of the presentation 🦀</h3>
+    <h5>⚡ Lightning Network: Scaling Bitcoin, but Not Too Much ⚡</h5>
     <img
       src="https://avatars.githubusercontent.com/u/17150045?v=4"
       width="120"
@@ -16,14 +16,16 @@
     >
 
     <div align="center">
-      <p><small> Date x.x.x</small></p>
+      <p><small> Date May 11 2023</small></p>
     </div>
   </section>
 
   <section>
     <h3>Overview</h3>
     <ul>
-      <li> 🦕</li>
+      <li>Bitcoin Basics</li>
+      <li>Lightning Basics</li>
+      <li>Lightning Problems</li>
     </ul>
   </section>
 </section>

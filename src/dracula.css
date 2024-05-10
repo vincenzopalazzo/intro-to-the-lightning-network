@@ -16,7 +16,7 @@ section.has-light-background h6 {
 :root {
   --r-background-color: #05050c;
   --r-main-font: Roboto;
-  --r-main-font-size: 37px;
+  --r-main-font-size: 31px;
   --r-main-color: #6272a4;
   --r-block-margin: 20px;
   --r-heading-margin: 0 0 20px 0;
@@ -88,6 +88,16 @@ section.has-light-background h6 {
   text-transform: var(--r-heading-text-transform);
   text-shadow: var(--r-heading-text-shadow);
   word-wrap: break-word;
+}
+
+.reveal,
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  font-family: "Fira Sans";
 }
 
 .reveal h1 {
