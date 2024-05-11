@@ -26,6 +26,7 @@
       <li>Bitcoin Basics</li>
       <li>Lightning Basics</li>
       <li>Lightning Problems</li>
+      <li>Conclusion</li>
     </ul>
   </section>
 </section>

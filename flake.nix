@@ -16,7 +16,7 @@
         formatter = pkgs.nixpkgs-fmt;
 
         devShell = pkgs.mkShell {
-          buildInputs = [ pkgs.just pkgs.bun ];
+          buildInputs = [ pkgs.just pkgs.bun pkgs.netlify-cli ];
           buildPhase = "just";
           shellHook = ''
              export CI="false"

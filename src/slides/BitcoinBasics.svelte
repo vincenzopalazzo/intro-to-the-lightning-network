@@ -35,9 +35,9 @@
   <section>
     <h3>How Bitcoin Works</h3>
     <ul>
-      <li>Only <b>on-chain</b> transaction does not scale</li>
+      <li>Only <b>on-chain</b> transactions does not scale</li>
       <li class="fragment">
-        Small payments when there are a lot of transactions are not worted
+        Small payments when there are a lot of transactions are not worthed
       </li>
       <li class="fragment">
         All the transactions are recorded on the Blockchain

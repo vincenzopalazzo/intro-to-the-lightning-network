@@ -6,10 +6,10 @@ default: fmt
 	{{CC}} run build
 
 dep:
-    {{CC}} install
+  {{CC}} install; netlify init
 
 dev:
-    {{CC}} --bun run dev
+  {{CC}} --bun run dev
 
 fmt:
 	{{CC}} run format
@@ -20,5 +20,5 @@ check:
 clean:
 	{{CC}} clean
 
-deply:
-	@echo "I do not know how to deploy this stuff"
+deploy:
+		netlify deploy --prod
